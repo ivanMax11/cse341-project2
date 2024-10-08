@@ -5,7 +5,7 @@
     "description": "API for managing users and tasks",
     "version": "1.0.0"
   },
-  "host": "cse341-project2-agc3.onrender.com",
+  "host": "cse341-project2-7v6r.onrender.com",
   "basePath": "/api",
   "schemes": [
     "https"
